@@ -1,0 +1,19 @@
+# E-commerce Website Checkout Process Testing
+
+This repository contains automated test scripts and documentation for testing the checkout process of an e-commerce website.
+
+## Overview
+This project focuses on automating the checkout process testing to ensure a smooth user experience and system reliability for an e-commerce platform. Comprehensive test cases enhance the quality of the platform by covering various checkout scenarios.
+
+## Key Features
+- Automated test scripts using Selenium WebDriver.
+- Collaborated on comprehensive checkout test cases.
+- Streamlined testing with automation, reducing manual effort and accelerating feedback cycles.
+
+## Usage
+1. Clone the repository to your local machine.
+2. Install Selenium WebDriver and necessary dependencies.
+3. Configure the test environment and update test data as needed.
+4. Execute the test scripts using your preferred test runner or IDE.
+
+ 
